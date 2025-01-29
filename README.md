@@ -39,11 +39,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ## 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Khush123&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khush123&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=khush-010&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khush-010&theme=radical)  
 
 ## 📌 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khush123&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khush-010&layout=compact&theme=radical)  
 
 ## 🎉 Fun Fact  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E2B714&width=435&lines=I'm+a+Full-Stack+Developer!;I+love+solving+challenges!;Always+learning+new+things!)  
